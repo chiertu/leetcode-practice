@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="854a42d2-9ab5-45c2-af0d-7ef08d845d9a" name="Changes" comment="upload some local leetcode practice">
+    <list default="true" id="854a42d2-9ab5-45c2-af0d-7ef08d845d9a" name="Changes" comment="upload Q186">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q89.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Q186.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Q186.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q186">
-    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q10" />
-      <module name="algo_imp.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q89">
     <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q11" />
       <module name="algo_imp.main" />
@@ -74,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q2090" />
+    <configuration name="Q244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q244" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q89" />
+      <module name="algo_imp.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q89" />
+        <item itemvalue="Application.Q244" />
         <item itemvalue="Application.Q186" />
         <item itemvalue="Application.Q11" />
         <item itemvalue="Application.Q33" />
-        <item itemvalue="Application.Q2090" />
-        <item itemvalue="Application.Q10" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +113,9 @@
       <workItem from="1688525332636" duration="598000" />
       <workItem from="1688589872089" duration="45645000" />
       <workItem from="1689021695534" duration="11368000" />
-      <workItem from="1689089699646" duration="12594000" />
+      <workItem from="1689089699646" duration="24875000" />
+      <workItem from="1689564323151" duration="290000" />
+      <workItem from="1689610177000" duration="3605000" />
     </task>
     <task id="LOCAL-00001" summary="upload some local leetcode practice">
       <created>1689278742311</created>
@@ -121,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689278742311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upload Q186">
+      <created>1689288310052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689288310052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload some local leetcode practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload some local leetcode practice" />
+    <MESSAGE value="upload Q186" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload Q186" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
