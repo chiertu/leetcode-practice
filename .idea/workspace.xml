@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="854a42d2-9ab5-45c2-af0d-7ef08d845d9a" name="Changes" comment="upload Q186">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Q89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_274.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_442.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_645.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_495.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_628.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,37 +61,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q89">
-    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q11" />
+  <component name="RunManager" selected="Application.Array_Survey_41">
+    <configuration name="Array_Survey_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Survey_41" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q186" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q186" />
+    <configuration name="Array_Survey_442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Survey_442" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q244" />
+    <configuration name="Array_Survey_645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Survey_645" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q33" />
+    <configuration name="Array_Survey_697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Survey_697" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q89" />
+    <configuration name="Array_Traverse_628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Traverse_628" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q89" />
-        <item itemvalue="Application.Q244" />
-        <item itemvalue="Application.Q186" />
-        <item itemvalue="Application.Q11" />
-        <item itemvalue="Application.Q33" />
+        <item itemvalue="Application.Array_Survey_41" />
+        <item itemvalue="Application.Array_Survey_442" />
+        <item itemvalue="Application.Array_Survey_697" />
+        <item itemvalue="Application.Array_Survey_645" />
+        <item itemvalue="Application.Array_Traverse_628" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +123,9 @@
       <workItem from="1689021695534" duration="11368000" />
       <workItem from="1689089699646" duration="24875000" />
       <workItem from="1689564323151" duration="290000" />
-      <workItem from="1689610177000" duration="3605000" />
+      <workItem from="1689610177000" duration="39442000" />
+      <workItem from="1690911324248" duration="476000" />
+      <workItem from="1690911859999" duration="19482000" />
     </task>
     <task id="LOCAL-00001" summary="upload some local leetcode practice">
       <created>1689278742311</created>
@@ -131,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689288310052</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="upload Q186">
+      <created>1689627398211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689627398211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
