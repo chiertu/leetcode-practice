@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="854a42d2-9ab5-45c2-af0d-7ef08d845d9a" name="Changes" comment="upload Q186">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_442.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_645.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_414.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_495.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Traverse_628.java" afterDir="false" />
+    <list default="true" id="854a42d2-9ab5-45c2-af0d-7ef08d845d9a" name="Changes" comment="upload some Array questions">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_2DandOthers_118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_2DandOthers_119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_2DandOthers_419.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_2DandOthers_598.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_2DandOthers_661.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Change_283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Change_453.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Change_665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_SpecialTraverse_498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_SpecialTraverse_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_SpecialTraverse_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Transpose_189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array_Transpose_396.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array_Survey_274.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array_Survey_274.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,37 +65,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array_Survey_41">
-    <configuration name="Array_Survey_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Survey_41" />
+  <component name="RunManager" selected="Application.Array_SpecialTraverse_498">
+    <configuration name="Array_2DandOthers_661" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_2DandOthers_661" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Survey_442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Survey_442" />
+    <configuration name="Array_SpecialTraverse_498" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_SpecialTraverse_498" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Survey_645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Survey_645" />
+    <configuration name="Array_SpecialTraverse_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_SpecialTraverse_54" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Survey_697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Survey_697" />
+    <configuration name="Array_SpecialTraverse_59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_SpecialTraverse_59" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_Traverse_628" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Traverse_628" />
+    <configuration name="Array_Transpose_396" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Transpose_396" />
       <module name="algo_imp.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array_Survey_41" />
-        <item itemvalue="Application.Array_Survey_442" />
-        <item itemvalue="Application.Array_Survey_697" />
-        <item itemvalue="Application.Array_Survey_645" />
-        <item itemvalue="Application.Array_Traverse_628" />
+        <item itemvalue="Application.Array_SpecialTraverse_498" />
+        <item itemvalue="Application.Array_SpecialTraverse_59" />
+        <item itemvalue="Application.Array_SpecialTraverse_54" />
+        <item itemvalue="Application.Array_Transpose_396" />
+        <item itemvalue="Application.Array_2DandOthers_661" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +129,7 @@
       <workItem from="1689564323151" duration="290000" />
       <workItem from="1689610177000" duration="39442000" />
       <workItem from="1690911324248" duration="476000" />
-      <workItem from="1690911859999" duration="19482000" />
+      <workItem from="1690911859999" duration="84052000" />
     </task>
     <task id="LOCAL-00001" summary="upload some local leetcode practice">
       <created>1689278742311</created>
@@ -148,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689627398211</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload some Array questions">
+      <created>1691017737817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691017737817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload some local leetcode practice" />
     <MESSAGE value="upload Q186" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload Q186" />
+    <MESSAGE value="upload some Array questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload some Array questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
